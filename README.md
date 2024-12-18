@@ -22,20 +22,7 @@ I'm a **tech-savvy** individual who loves challenging myself, creating cool proj
   - Artificial Intelligence (AI)  
 
 **Tech Stack & Tools** 🚀:  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  
-![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)  
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)  
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery) ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet) ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
  
 
 ---
