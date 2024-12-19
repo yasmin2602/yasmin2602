@@ -34,7 +34,7 @@ When I’m not coding, I love **knitting/crocheting**, **baking**, and going on 
 
 ## 📫 How to Reach Me  
 📧 [yasminali@live.no](mailto:yasminali@live.no)  
-🔗 [LinkedIn](linkedin.com/in/yasmin-ali-6b91672b8)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yasmin-ali-6b91672b8/)  
 
 ---
 
