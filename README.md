@@ -2,7 +2,7 @@
 
 ### 🚀 Final Year Computer Engineering Student at OsloMet  
 I'm a **tech-savvy** individual who loves challenging myself, creating cool projects, and sharing what I learn! I’m passionate about **programming**, **network security**, **AI**, and **data development**.  
-
+Look at my website🤗 https://yasminali.netlify.app/
 ---
 
 ## 🌱 What I'm Currently Doing
